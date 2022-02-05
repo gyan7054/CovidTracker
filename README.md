@@ -19,3 +19,4 @@ npm run build
 
 ### Customize configuration
 
+![ct2](https://user-images.githubusercontent.com/74257433/152631200-ae8f1525-d5ec-47eb-a86b-1fc18939c4f6.png)
